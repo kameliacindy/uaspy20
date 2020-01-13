@@ -4,9 +4,6 @@ class MainApp(BaseApp):
         self.books = []
 
 
-    def list_book(self):
-        
-
 if __name__ == "__main__":
     app = MainApp()
     app.run()
