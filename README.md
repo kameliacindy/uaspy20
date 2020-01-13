@@ -1,2 +1,4 @@
 # Project UAS Bahasa Pemrograman
-silakan tuliskan langkah-langkah disertai screenshotnya
+Pada Project UAS Bahasa Pemrograman ini, diperintahkan untuk melalukan overriding pads beberapa method.
+Output yang didapat seperti di bawah ini :
+! [https://github.com/kameliacindy/uaspy20/blob/master/output.PNG] 
